@@ -10,6 +10,10 @@ This system can therefore be used in real-time applications which require face-m
 ## Project Demo
 <img src="https://github.com/coolamit1232/Face-Mask-Detection/blob/master/Face%20Mask%20Dataset/Output.png" width="70%">
 
+## How to Run the Model
+For real time prediction you can run the file "Run.ipynb".\
+Or you can create or modify CNN model in the file **Model** i.e "Mask_Detection.ipynb" to train the model. You can add or delete layers in MLP part of the model based on your data and results. Don't forget to save your model after each epoch.
+
 ## Frameworks Used
 + Python
 + Tensorflow
